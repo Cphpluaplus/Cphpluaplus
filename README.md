@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cphplusplus
-- 👀 I’m interested in 吃喝拉撒
+- 👀 I’m interested in CTF
 - 🌱 I’m currently learning ...
-- 💞️ cpdd 你是唯一
+- 💞️ CTF
 - 📫 How to reach me ...
 
 <!---
